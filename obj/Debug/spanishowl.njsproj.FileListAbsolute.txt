@@ -1,0 +1,3 @@
+C:\Users\icoday\Documents\NodeJS\spanishowl\spanishowl\obj\Debug\spanishowl.njsprojAssemblyReference.cache
+C:\Users\icoday\Documents\NodeJS\spanishowl\spanishowl\obj\Debug\spanishowl.njsproj.CoreCompileInputs.cache
+C:\Users\icoday\Documents\NodeJS\spanishowl\spanishowl\bin\Microsoft.NodejsTools.WebRole.dll
